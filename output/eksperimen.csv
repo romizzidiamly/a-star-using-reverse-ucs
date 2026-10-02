@@ -1,0 +1,17 @@
+﻿timestamp,start,goal,vehicle_code,vehicle_name,km_per_liter,fuel_code,fuel_name,fuel_price_per_liter,service_code,service_name,distance_weight,time_weight,route,total_distance_km,total_time_minutes,fuel_cost,final_score,status
+2026-09-26T11:25:21,B,N,1,Honda Scoopy,59.0,1,Pertalite (RON 90),10000,1,Reguler (Seimbang),0.5,0.5,B -> AE -> AD -> AW -> P -> AF -> N,19.10,73.0,3237.29,0.608112373737,FOUND
+2026-09-26T11:25:21,B,N,1,Honda Scoopy,59.0,1,Pertalite (RON 90),10000,2,Kilat (Prioritas Waktu),0.2,0.8,B -> Y -> AF -> N,31.70,20.0,5372.88,0.341351010101,FOUND
+2026-09-26T11:25:21,B,N,1,Honda Scoopy,59.0,1,Pertalite (RON 90),10000,3,Express (Waktu Agresif),0.1,0.9,B -> Y -> AF -> N,31.70,20.0,5372.88,0.246433080808,FOUND
+2026-09-26T11:25:21,B,N,1,Honda Scoopy,59.0,1,Pertalite (RON 90),10000,4,Hemat (Prioritas Jarak),0.8,0.2,B -> W -> AE -> AD -> AW -> P -> AF -> N,13.10,105.0,2220.34,0.522979797980,FOUND
+2026-09-26T11:25:21,A,B,2,Honda Beat,60.6,1,Pertalite (RON 90),10000,1,Reguler (Seimbang),0.5,0.5,A -> AA -> AL -> AM -> AV -> B,13.40,41.0,2211.22,0.387941919192,FOUND
+2026-09-26T11:25:21,A,B,2,Honda Beat,60.6,1,Pertalite (RON 90),10000,2,Kilat (Prioritas Waktu),0.2,0.8,A -> AC -> AB -> AD -> AE -> B,15.70,38.0,2590.76,0.339330808081,FOUND
+2026-09-26T11:25:21,A,B,2,Honda Beat,60.6,1,Pertalite (RON 90),10000,3,Express (Waktu Agresif),0.1,0.9,A -> AC -> AB -> AD -> AE -> B,15.70,38.0,2590.76,0.313604797980,FOUND
+2026-09-26T11:25:21,A,B,2,Honda Beat,60.6,1,Pertalite (RON 90),10000,4,Hemat (Prioritas Jarak),0.8,0.2,A -> AC -> AB -> AD -> AE -> W -> B,9.70,70.0,1600.66,0.375505050505,FOUND
+2026-09-26T11:25:21,E,P,3,Honda Vario 160,46.9,2,Pertamax (RON 92),13500,1,Reguler (Seimbang),0.5,0.5,E -> AQ -> AG -> AF -> P,18.30,51.0,5267.59,0.510890151515,FOUND
+2026-09-26T11:25:21,E,P,3,Honda Vario 160,46.9,2,Pertamax (RON 92),13500,2,Kilat (Prioritas Waktu),0.2,0.8,E -> AQ -> Y -> AF -> P,19.00,50.0,5469.08,0.434974747475,FOUND
+2026-09-26T11:25:22,E,P,3,Honda Vario 160,46.9,2,Pertamax (RON 92),13500,3,Express (Waktu Agresif),0.1,0.9,E -> AQ -> Y -> AF -> P,19.00,50.0,5469.08,0.406881313131,FOUND
+2026-09-26T11:25:22,E,P,3,Honda Vario 160,46.9,2,Pertamax (RON 92),13500,4,Hemat (Prioritas Jarak),0.8,0.2,E -> AQ -> AG -> P,17.80,58.0,5123.67,0.582323232323,FOUND
+2026-09-26T11:25:22,K,P,4,Yamaha NMAX,40.0,3,Pertamax Turbo (RON 98),14750,1,Reguler (Seimbang),0.5,0.5,K -> AL -> AA -> A -> AC -> AB -> AD -> AW -> P,15.30,70.0,5641.88,0.530776515152,FOUND
+2026-09-26T11:25:22,K,P,4,Yamaha NMAX,40.0,3,Pertamax Turbo (RON 98),14750,2,Kilat (Prioritas Waktu),0.2,0.8,K -> AL -> AA -> A -> AC -> AB -> AR -> P,23.10,57.0,8518.12,0.505871212121,FOUND
+2026-09-26T11:25:22,K,P,4,Yamaha NMAX,40.0,3,Pertamax Turbo (RON 98),14750,3,Express (Waktu Agresif),0.1,0.9,K -> AL -> AA -> AK -> A -> AC -> AB -> AR -> P,34.20,51.0,12611.25,0.466477272727,FOUND
+2026-09-26T11:25:22,K,P,4,Yamaha NMAX,40.0,3,Pertamax Turbo (RON 98),14750,4,Hemat (Prioritas Jarak),0.8,0.2,K -> AS -> AX -> AD -> AW -> P,8.00,107.0,2950.00,0.384343434343,FOUND
